@@ -4,11 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
 
 
+- 👨🏻‍💻 Learning **Data structures and Algorithms.**
 
-
-- 🌱 I’m currently looking for new oppurtunities
+- 🌱 Currently looking for good opportunities 
 
 - 📫 How to reach me **vedantbhalerao343@gmail.com**
+
+- ⚡ Fun fact **I like sports⚽**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -18,4 +20,3 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
