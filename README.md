@@ -18,6 +18,11 @@
 <a href="https://www.linkedin.com/in/vedant-bhalerao-484aa022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant343" height="30" width="40" /></a>
 <a href="https://instagram.com/_vedant.bhalerao_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_73arner" height="30" width="40" /></a>
 </p>
-<div align="center" class="center">
+
+
+
+<div align="center" class="center pt-6">
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant343&" alt="vedant343" /></p>
+
 </div>
