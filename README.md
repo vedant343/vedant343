@@ -1,6 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://Mirzaazmath.io)
-<h1 align="center">Hi 👋, I'm Vedant Bhalerao </h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=535&lines=%E2%9C%A8+Namaste%2C+I'm+Vedant.+You+are+Welcome!" alt="Typing SVG" />
+</h1>
 <img align="right" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
 
 
