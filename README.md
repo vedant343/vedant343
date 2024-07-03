@@ -2,7 +2,7 @@
 <h1 align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=535&lines=%E2%9C%A8+Namaste%2C+I'm+Vedant.+You+are+Welcome!" alt="Typing SVG" />
 </h1>
-<img align="right" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://github.com/Mirzaazmath/threads_clone/blob/main/assets/output/coding.gif"> -->
 
 
 - 👨🏻‍💻 Learning **Data structures and Algorithms.**
